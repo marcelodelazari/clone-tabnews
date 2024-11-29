@@ -23,8 +23,8 @@ function Home() {
       ) : (
         <div>
           <h1 style={styles.heading}>Maria, minha linda 😍</h1>
-          <p style={styles.message}>Sou muito feliz por ter você ao meu lado.</p>
-          <p style={styles.message}>Aceitarias essa flor? 👉👈</p>
+          <p style={styles.message}>Conte-me mais sobre o seu dia. Conseguiu resolver o SEI? Ainda quer ir pro burgiff?</p>
+          <p style={styles.message}>Mas antes disso, por favor, aceite esta flor. 👉👈</p>
 
           {/* Adicionando a imagem abaixo da mensagem */}
           <img 
